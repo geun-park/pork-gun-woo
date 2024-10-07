@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 3rd year BSc Computer Science studying at ETH Zürich
+My name is Geun, and I am a 3rd year BSc Computer Science studying at ETH Zürich
 
 
 <!--
